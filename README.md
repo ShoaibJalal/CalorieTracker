@@ -2,7 +2,7 @@ This is a Calorie Tracker App built with Vanilla Javascript using the module Pat
 UI of this app is done with Materlize CSS.
 
 
-To run the project, Download or clone it on your machine and open index.html on your browser.
+To run the project click here, https://shoaibjalal.github.io/CalorieTracker/.
 
 <img src="img/screenshot.PNG" />
 <img src="img/screenshot2.PNG" />
